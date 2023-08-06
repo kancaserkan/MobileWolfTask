@@ -1,0 +1,20 @@
+[Android_emulator-5554 INFO ] 2023-08-07 00:25:38.232 ServerManager:30 - starting appium server
+[Android_emulator-5554 INFO ] 2023-08-07 00:25:40.602 ServerManager:41 - Appium server started
+[Android_emulator-5554 INFO ] 2023-08-07 00:25:40.619 AppiumCapabilitiesManager:17 - getting capabilities
+[Android_emulator-5554 INFO ] 2023-08-07 00:25:40.621 DriverManager:53 - initializing Appium driver
+[Android_emulator-5554 INFO ] 2023-08-07 00:25:46.968 DriverManager:74 - Driver is initialized
+[Android_emulator-5554 INFO ] 2023-08-07 00:28:12.137 ServerManager:30 - starting appium server
+[Android_emulator-5554 INFO ] 2023-08-07 00:28:14.196 ServerManager:41 - Appium server started
+[Android_emulator-5554 INFO ] 2023-08-07 00:28:14.214 AppiumCapabilitiesManager:17 - getting capabilities
+[Android_emulator-5554 INFO ] 2023-08-07 00:28:14.216 DriverManager:53 - initializing Appium driver
+[Android_emulator-5554 INFO ] 2023-08-07 00:28:20.440 DriverManager:74 - Driver is initialized
+[Android_emulator-5554 INFO ] 2023-08-07 00:29:15.543 ServerManager:30 - starting appium server
+[Android_emulator-5554 INFO ] 2023-08-07 00:29:17.256 ServerManager:41 - Appium server started
+[Android_emulator-5554 INFO ] 2023-08-07 00:29:17.272 AppiumCapabilitiesManager:17 - getting capabilities
+[Android_emulator-5554 INFO ] 2023-08-07 00:29:17.274 DriverManager:53 - initializing Appium driver
+[Android_emulator-5554 INFO ] 2023-08-07 00:29:23.483 DriverManager:74 - Driver is initialized
+[Android_emulator-5554 INFO ] 2023-08-07 00:30:13.861 ServerManager:30 - starting appium server
+[Android_emulator-5554 INFO ] 2023-08-07 00:30:15.563 ServerManager:41 - Appium server started
+[Android_emulator-5554 INFO ] 2023-08-07 00:30:15.582 AppiumCapabilitiesManager:17 - getting capabilities
+[Android_emulator-5554 INFO ] 2023-08-07 00:30:15.604 DriverManager:53 - initializing Appium driver
+[Android_emulator-5554 INFO ] 2023-08-07 00:30:21.824 DriverManager:74 - Driver is initialized

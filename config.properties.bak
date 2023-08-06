@@ -1,0 +1,52 @@
+appiumURL=http://127.0.0.1:4723/wd/hub
+androidAutomationName=UiAutomator2
+androidAppPackage=com.nutshellapps.nutshellmobile
+androidAppActivity=com.nutshellapps.nutshellmobile.MainActivity
+androidAppLocation=apps/Nutshell.apk
+iOSAutomationName=XCUITest
+iOSBundleId=io.ontrac.nutshell
+iOSAppLocation=/Users/meralgulap/Desktop/appium/dev/NutshellApps.ipa
+ChromeDriverFiles=chromedriver_91
+
+browser=chrome
+url=https://qa.internal.nutshellapps.com/eDocs-Accounts/User/Login
+durl=https://qa.internal.nutshellapps.com/eDocs-Accounts/Dashboard/
+# ====== This for part configuration readers ===============================
+account=qa.internal
+#username=container.sanity@auto.nutshellapps.co.uk
+#password=P455.word12
+#username=michaelrajkumar585@gmail.com
+#password=Michael@123
+#account=trial
+#username=meral.gulap@nutshellapps.co.uk
+#password=Gu240772-
+username=nutshellappstests+ccuser1@gmail.com
+password=Nutshell123!
+#===========================================================================
+# example app. this part will be deleted !!!!
+
+#appiumURL=http://127.0.0.1:4723/wd/hub
+#androidAutomationName=UiAutomator2
+#androidAppPackage=com.swaglabsmobileapp
+#androidAppActivity=com.swaglabsmobileapp.SplashActivity
+#androidAppLocation=apps/Androidexample.apk
+#iOSAutomationName=XCUITest
+#iOSBundleId=org.askomdch.SwagLabMobileApp
+#iOSAppLocation=apps/Androidexample.apk
+
+# =================This for part Browserstack ===============================
+#bs_username=nutshellbstackap1
+#bs_access_key=V5bfoVGaCJwAXyAW1Qt1
+#bsURL=https://"+userName+":"+accessKey+"@hub-cloud.browserstack.com/wd/hub
+
+remoteOrLocal=RemoteB
+platformName=Android
+#platformName=Android
+app_url_ios=bs://cdbb5787d20d679f47e5d2c8c53f851efa6cd98a
+app_url_android=bs://1ed451f476800c48c295d4dc7cd1ed2913af8e9e
+device_ios=iPhone 8
+os_ios=15
+os_android=10.0
+device_android=Samsung Galaxy S20
+product=Legacy
+type=generic

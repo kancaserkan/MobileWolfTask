@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e26664d-24ac-412f-9887-4acc555626be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/release-3.2.3-RC-20220713-131344.ipa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/release-3.3.0-20220708-125627.ipa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/runners/MyRunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/runners/MyRunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/utils/AppiumCapabilitiesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/AppiumCapabilitiesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/utils/GlobalParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps/AppModeAllModes.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps/AppModeAllModes.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps/AppModePreview.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps/AppModePreview.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="TAS-482-change-the-codes-of-container-sa" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TAS-483-regression-test-cases--check-and" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="Jar Creation" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23daxmaZSw8dKsNYpsPWVK7mqje" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/apps" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/apps" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/qa/runners" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/documents" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/features/Regression/CC" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features/OtherNotUsing" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Sessions/OnlineApp" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/AssetManagement" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features/Sanity/ContainerSanity/Apps" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qa.pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.runners" />
+      <recent name="com.qa.utils" />
+      <recent name="com.qa.stepdef" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyRunnerTest (1)">
+    <configuration name="MyRunnerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -DremoteOrLocal=&quot;Local&quot; -DplatformName=&quot;Android&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.stepdef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -DremoteOrLocal=&quot;Local&quot; -DplatformName=&quot;Android&quot; -DmutOrLegacy=&quot;Legacy&quot; -DAppFileName=&quot;CC-178-20220117-115700.apk&quot; -DRemoteTestName=&quot;If for CC-178&quot; -DRemoteProjectName=&quot;IF component&quot; -DChromeDriverFiles=&quot;chromedriver_97&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.stepdef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -DremoteOrLocal=&quot;Local&quot; -DplatformName=&quot;Android&quot; -DmutOrLegacy=&quot;Legacy&quot; -DAppFileName=&quot;CC-178-20220117-115700.apk&quot; -DRemoteTestName=&quot;If for CC-178&quot; -DRemoteProjectName=&quot;IF component&quot; -DChromeDriverFiles=&quot;chromedriver_97&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomGenericRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.CustomGenericRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerLambdaTestParalel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.RunnerLambdaTestParalel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/meralgulap/IdeaProjects/mobile-test-automation/src/main/resources/LambdaParalelTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-test-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/LambdaParalelTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyRunnerTest" />
+      <item itemvalue="JUnit.MyRunnerTest (1)" />
+      <item itemvalue="TestNG.CustomGenericRunner" />
+      <item itemvalue="TestNG./Users/meralgulap/IdeaProjects/mobile-test-automation/src/main/resources/LambdaParalelTest.xml" />
+      <item itemvalue="TestNG.RunnerLambdaTestParalel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyRunnerTest (1)" />
+        <item itemvalue="TestNG.RunnerLambdaTestParalel" />
+        <item itemvalue="TestNG./Users/meralgulap/IdeaProjects/mobile-test-automation/src/main/resources/LambdaParalelTest.xml" />
+        <item itemvalue="TestNG.CustomGenericRunner" />
+        <item itemvalue="JUnit.MyRunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e26664d-24ac-412f-9887-4acc555626be" name="Default Changelist" comment="" />
+      <created>1642066667759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642066667759</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Eyes setup">
+      <created>1646415216845</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1646415216845</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Eyes setup">
+      <created>1646740309208</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646740309208</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Simulat0r is working and first test with simulator in Eyes">
+      <created>1646777492594</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1646777492594</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Managing chrome driver file, device name or udid regarding to realOrSumulator parameters.">
+      <created>1648628965526</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648628965526</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Managing chrome driver file, device name or udid regarding to realOrSumulator parameters.">
+      <created>1648631909968</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648631909968</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Changed parameter name for simulator, emulator and real devices.">
+      <created>1648643744885</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1648643744885</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Changed parameter name for simulator, emulator and real devices on BrowserStack capabilities.">
+      <created>1648723133830</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1648723133830</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Changed parameter for Windows OS in serverManager.">
+      <created>1648723981868</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1648723981868</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Changed parameter for Windows OS in serverManager.">
+      <created>1648742012311</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1648742012311</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Changed parameter for Windows OS in serverManager.">
+      <created>1648742195749</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1648742195749</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Changed parameter for Windows OS in serverManager.">
+      <created>1648805771492</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1648805771492</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Changed AppiumDriverLocalService in serverManager.">
+      <created>1648807875407</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1648807875407</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Changed AppiumDriverLocalService in serverManager.">
+      <created>1648809189196</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1648809189196</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Managed code after working the Applitools">
+      <created>1649766589846</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1649766589846</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Completed below setup process&#10;&#10;Installed Tunnel for LambdaTest&#10;&#10;Installed Under Pass&#10;&#10;Installed XAMMP&#10;&#10;Run the Tunnel command line in terminal&#10;&#10;LT -user {user’s login email} -key {user’s access key}&#10;Added export in bash.profile&#10;&#10;export LT_USERNAME=&quot;username&quot; &#10;export LT_ACCESS_KEY=&quot;accessKey&quot;&#10;   Created below methods and changed codes:&#10;&#10;Added new class which is LambdaUtils under Utilities folder&#10;&#10; LambdaUtils&#10;getCaps : it returns desire capabilities&#10;&#10;getLambdaStatus: it returns lambda status. We will check after method in myRunnerClass after quit driver&#10;&#10;Added new parameters in config.properties file about lambda test: &#10;&#10; LTusername=meral.gulap &#10; LTaccesskey=bZ9xbkPHJDYYNzXz4jOCktr45cQBhsgC1HqJpw9rwhupXh0qYELT&#10; gridURL =@hub.lambdatest.com/wd/hub&#10; &#10;&#10;Added new switch case in remote options for LambdaTest case &quot;RemoteL&quot; in DriverManager class:     &#10;&#10; case &quot;RemoteL&quot;:&#10;                //LambdaTest //&#10;                String LambdaUrl=&quot;https://&quot; + props.getProperty(&quot;LSurname&quot;)+ &quot;:&quot; + props.getProperty(&quot;LTaccesskey&quot;)+ props.getProperty(&quot;LTgridURL&quot;);&#10;                url = new URL(LambdaUrl);&#10;                caps= new LambdaUtils().getCaps();&#10;                System.out.println(&quot;REMOTE_LambdaTest&quot;);&#10;                break;&#10; &#10;&#10;We can use selenium grid also Appium so mobile devices Using Selenium Grid with Appium - Appium So added below new class for paralel test&#10;&#10;Added new class Parallelized&#10;   7. Run this command &#10;&#10;appium --nodeconfig /path/to/nodeconfig.json&#10;result&#10;&#10;[Appium] Welcome to Appium v1.22.2&#10;[Appium] Non-default server args:&#10;[Appium]   nodeconfig: /path/to/nodeconfig.json&#10;[Appium] Unable to load node configuration file to register with grid: ENOENT: no such file or directory, open '/path/to/nodeconfig.json'&#10;[Appium] Appium REST http interface listener started on 0.0.0.0:4723&#10;8. For mobile test run below command&#10;&#10;curl -u &quot;meral.gulap:bZ9xbkPHJDYYNzXz4jOCktr45cQBhsgC1HqJpw9rwhupXh0qYELT&quot; \&#10;--location --request POST 'https://manual-api.lambdatest.com/app/upload/realDevice' \&#10;--form 'name=&quot;Android_App&quot;' \&#10;--form 'appFile=@&quot;/Users/meralgulap/IdeaProjects/mobile-test-automation/src/ma">
+      <created>1649951060849</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1649951060849</updated>
+    </task>
+    <task id="LOCAL-00040" summary="The illegel argument exception test">
+      <created>1650371846552</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650371846552</updated>
+    </task>
+    <task id="LOCAL-00041" summary="The illegel argument exception test">
+      <created>1650374033580</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1650374033580</updated>
+    </task>
+    <task id="LOCAL-00042" summary="The illegel argument exception test">
+      <created>1650456329175</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1650456329175</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Changed the runner class name">
+      <created>1650459469793</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1650459469793</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Changed the runner class name">
+      <created>1650460850673</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1650460850673</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added new custom classes for paralel test">
+      <created>1652088635582</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652088635583</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fixed login username error">
+      <created>1652110905021</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652110905021</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Solved the login issue.&#10;&#10;The new step created for login. &#10;&#10; And I login with click the signin button&#10;&#10;Existing test step changed regarding to the multiple organisation in MUT&#10;&#10; And Select the organisation with &quot;QA1 AWS INTERNAL&quot; for multiple organisation in MUT&#10;&#10;If we need to use multiple organisation, that time need to organisation selection so we use for this test step.">
+      <created>1652258054923</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1652258054923</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Solved the login issue.&#10;&#10;The new step created for login. &#10;&#10; And I login with click the signin button&#10;&#10;Existing test step changed regarding to the multiple organisation in MUT&#10;&#10; And Select the organisation with &quot;QA1 AWS INTERNAL&quot; for multiple organisation in MUT&#10;&#10;If we need to use multiple organisation, that time need to organisation selection so we use for this test step.">
+      <created>1652359197316</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1652359197316</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Solved the login issue.&#10;&#10;The new step created for login. &#10;&#10; And I login with click the signin button&#10;&#10;Existing test step changed regarding to the multiple organisation in MUT&#10;&#10; And Select the organisation with &quot;QA1 AWS INTERNAL&quot; for multiple organisation in MUT&#10;&#10;If we need to use multiple organisation, that time need to organisation selection so we use for this test step.">
+      <created>1652800222136</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1652800222136</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Merged to Container sanity scripts wiyh main branch">
+      <created>1652800360248</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1652800360248</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Updated test scripts for container sanity apps. Details in thi file. &#10;https://docs.google.com/spreadsheets/d/1g6IlJDcenCouhNS0IUUn9MajVljtaN66boKIursvRWA/edit?usp=sharing">
+      <created>1653298600797</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298600797</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updated test scripts for container sanity apps. Details in thi file. &#10;https://docs.google.com/spreadsheets/d/1g6IlJDcenCouhNS0IUUn9MajVljtaN66boKIursvRWA/edit?usp=sharing">
+      <created>1653312513841</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1653312513842</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added warm sync test steps in offline data app">
+      <created>1653397106609</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1653397106610</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Updated components steps.">
+      <created>1653483968690</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1653483968690</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Updated components steps.">
+      <created>1653643590992</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1653643590992</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Updated components auto complete script for more than one expected value in CC-13">
+      <created>1654616491418</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1654616491418</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Checked thee date component">
+      <created>1654682435444</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1654682435445</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Checked thee date component">
+      <created>1654683686274</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1654683686274</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Updated login steps for all scenarios">
+      <created>1654684498859</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1654684498859</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Updated cc routes">
+      <created>1654768343916</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1654768343916</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Updated cc-13 test steps">
+      <created>1654768452506</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1654768452506</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Updated cc-13 test steps">
+      <created>1654768637277</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1654768637277</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updated regression test scenarios except annotate">
+      <created>1654778381665</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1654778381665</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Updated regression test scenarios except annotate">
+      <created>1656413803660</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1656413803660</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Updated regression test scenarios except annotate">
+      <created>1656413877833</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1656413877834</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Updated regression test scenarios except annotate">
+      <created>1656416357517</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1656416357517</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Updated regression test scenarios except annotate">
+      <created>1656416717391</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1656416717391</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Added operating system class">
+      <created>1656451345886</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1656451345886</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Added mp link old and json crud feature">
+      <created>1656451524001</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1656451524002</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Added mp link old and json crud feature">
+      <created>1656451868495</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1656451868495</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Paralel testing works on mobile framework">
+      <created>1657009214313</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1657009214314</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Paralel testing works on mobile framework">
+      <created>1657009367976</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1657009367976</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Paralel testing works on mobile framework">
+      <created>1657105693983</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1657105693984</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Managing chrome driver file, device name or udid regarding to realOrSumulator parameters." />
+    <MESSAGE value="Changed parameter name for simulator, emulator and real devices." />
+    <MESSAGE value="Changed parameter name for simulator, emulator and real devices on BrowserStack capabilities." />
+    <MESSAGE value="Changed parameter for Windows OS in serverManager." />
+    <MESSAGE value="Changed AppiumDriverLocalService in serverManager." />
+    <MESSAGE value="Managed code after working the Applitools" />
+    <MESSAGE value="Completed below setup process&#10;&#10;Installed Tunnel for LambdaTest&#10;&#10;Installed Under Pass&#10;&#10;Installed XAMMP&#10;&#10;Run the Tunnel command line in terminal&#10;&#10;LT -user {user’s login email} -key {user’s access key}&#10;Added export in bash.profile&#10;&#10;export LT_USERNAME=&quot;username&quot; &#10;export LT_ACCESS_KEY=&quot;accessKey&quot;&#10;   Created below methods and changed codes:&#10;&#10;Added new class which is LambdaUtils under Utilities folder&#10;&#10; LambdaUtils&#10;getCaps : it returns desire capabilities&#10;&#10;getLambdaStatus: it returns lambda status. We will check after method in myRunnerClass after quit driver&#10;&#10;Added new parameters in config.properties file about lambda test: &#10;&#10; LTusername=meral.gulap &#10; LTaccesskey=bZ9xbkPHJDYYNzXz4jOCktr45cQBhsgC1HqJpw9rwhupXh0qYELT&#10; gridURL =@hub.lambdatest.com/wd/hub&#10; &#10;&#10;Added new switch case in remote options for LambdaTest case &quot;RemoteL&quot; in DriverManager class:     &#10;&#10; case &quot;RemoteL&quot;:&#10;                //LambdaTest //&#10;                String LambdaUrl=&quot;https://&quot; + props.getProperty(&quot;LSurname&quot;)+ &quot;:&quot; + props.getProperty(&quot;LTaccesskey&quot;)+ props.getProperty(&quot;LTgridURL&quot;);&#10;                url = new URL(LambdaUrl);&#10;                caps= new LambdaUtils().getCaps();&#10;                System.out.println(&quot;REMOTE_LambdaTest&quot;);&#10;                break;&#10; &#10;&#10;We can use selenium grid also Appium so mobile devices Using Selenium Grid with Appium - Appium So added below new class for paralel test&#10;&#10;Added new class Parallelized&#10;   7. Run this command &#10;&#10;appium --nodeconfig /path/to/nodeconfig.json&#10;result&#10;&#10;[Appium] Welcome to Appium v1.22.2&#10;[Appium] Non-default server args:&#10;[Appium]   nodeconfig: /path/to/nodeconfig.json&#10;[Appium] Unable to load node configuration file to register with grid: ENOENT: no such file or directory, open '/path/to/nodeconfig.json'&#10;[Appium] Appium REST http interface listener started on 0.0.0.0:4723&#10;8. For mobile test run below command&#10;&#10;curl -u &quot;meral.gulap:bZ9xbkPHJDYYNzXz4jOCktr45cQBhsgC1HqJpw9rwhupXh0qYELT&quot; \&#10;--location --request POST 'https://manual-api.lambdatest.com/app/upload/realDevice' \&#10;--form 'name=&quot;Android_App&quot;' \&#10;--form 'appFile=@&quot;/Users/meralgulap/IdeaProjects/mobile-test-automation/src/ma" />
+    <MESSAGE value="The illegel argument exception test" />
+    <MESSAGE value="Changed the runner class name" />
+    <MESSAGE value="Added new custom classes for paralel test" />
+    <MESSAGE value="Fixed login username error" />
+    <MESSAGE value="Solved the login issue.&#10;&#10;The new step created for login. &#10;&#10; And I login with click the signin button&#10;&#10;Existing test step changed regarding to the multiple organisation in MUT&#10;&#10; And Select the organisation with &quot;QA1 AWS INTERNAL&quot; for multiple organisation in MUT&#10;&#10;If we need to use multiple organisation, that time need to organisation selection so we use for this test step." />
+    <MESSAGE value="Merged to Container sanity scripts wiyh main branch" />
+    <MESSAGE value="Updated test scripts for container sanity apps. Details in thi file. &#10;https://docs.google.com/spreadsheets/d/1g6IlJDcenCouhNS0IUUn9MajVljtaN66boKIursvRWA/edit?usp=sharing" />
+    <MESSAGE value="Added warm sync test steps in offline data app" />
+    <MESSAGE value="Updated components steps." />
+    <MESSAGE value="Updated components auto complete script for more than one expected value in CC-13" />
+    <MESSAGE value="Checked thee date component" />
+    <MESSAGE value="Updated login steps for all scenarios" />
+    <MESSAGE value="Updated cc routes" />
+    <MESSAGE value="Updated cc-13 test steps" />
+    <MESSAGE value="Updated regression test scenarios except annotate" />
+    <MESSAGE value="Added operating system class" />
+    <MESSAGE value="Added mp link old and json crud feature" />
+    <MESSAGE value="Paralel testing works on mobile framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paralel testing works on mobile framework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/utils/MyWebDriver.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qa/pages/ContainerPage.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/runners/RunnerLambdaTestParalel.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/runners/RunnerLambdaTestParalel.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/runners/RunnerLambdaTestParalel.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/utils/DriverManager.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/utils/MyWebDriver.java</url>
+          <line>102</line>
+          <properties class="com.qa.utils.MyWebDriver">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="apps.contains(&quot;Sanity: Mobile App 09 (updated app)&quot;)" />
+        <watch expression="apps.contains(&quot;Live, Sanity: Mobile App 09 (updated app)&quot;)" />
+        <watch expression="appName1" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CC_178_20211214_112343_apk$_Users_meralgulap_IdeaProjects_mobile_test_automation_LambdaParalelTest_xml.ic" NAME="$PROJECT_DIR$/LambdaParalelTest.xml Coverage Results" MODIFIED="1651657421976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CC_178_20211214_112343_apk$RunnerLambdaTestParalel.ic" NAME="RunnerLambdaTestParalel Coverage Results" MODIFIED="1656629118530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qa.runners.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CC_178_20211214_112343_apk$MyRunnerTest__1_.ic" NAME="MyRunnerTest (1) Coverage Results" MODIFIED="1644413757193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qa.runners.*</FILTER>
+    </SUITE>
+  </component>
+</project>
